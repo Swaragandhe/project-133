@@ -1,0 +1,47 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+
+#h2 {
+    font-size: 25px;
+    width: 10%;
+    border-radius: 10px;
+}
+
+#c {
+    font-size: 25px;
+    width: 10%;
+    border-radius: 10px;
+}
+
+#h {
+    font-size: 25px;
+    width: 10%;
+    border-radius: 10px;
+
+}
+#d {
+font-size: 25px;
+    width: 10%;
+    border-radius: 10px;
+}
+
+#f {
+    font-size: 25px;
+    width: 10%;
+    border-radius: 10px;
+}
+a {
+    font-size:20px!important;
+    width:400px;
+   color:black;
+   background-color: white;
+  }
